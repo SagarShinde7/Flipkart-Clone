@@ -1,6 +1,11 @@
 # Flipkart-Clone
-Flipkart clone have feature like Loing, Signup, create an account if your login first time, Search bar, Add to cart, Buy button, Payment method
-This project built using ReactJS, MongoDB, axios and may more technologies
+#Flipkart clone have feature like Loing, Signup, create an account if your login first time, Search bar, Add to cart, Buy button, Payment method
+#This project built using this technologies
+#Frontend:- React, Redux and Material-UI
+#Backend:- NodeJs and express
+#Database:- MongoDB
+#Payment:- Payment Gateway 
+
 UI of Project
 ![Screenshot (1)](https://user-images.githubusercontent.com/106909440/202212044-f555ab23-9977-4a9f-9ba9-c06b7fa3131a.png)
 Product
